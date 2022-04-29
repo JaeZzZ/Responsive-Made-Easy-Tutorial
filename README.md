@@ -1,7 +1,7 @@
 # Responsive-Made-Easy-Tutorial
 Most of this code is from the Responsive Made Easy tutorial taught by Kevin Powell on Youtube. 
 
-# Highlights (for me) from this tutorial
+# My Takeaways from this tutorial
 1. using em and rem vs px
 2. for children of a flex container to take up equal space, you can set a flex-basis of 100%
 3. focus on common styles first in css, then move on to add more complexity
